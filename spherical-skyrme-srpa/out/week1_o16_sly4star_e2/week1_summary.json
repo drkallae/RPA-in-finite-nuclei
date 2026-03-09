@@ -1,0 +1,23 @@
+{
+  "N_numerical": 8.0,
+  "N_target": 8,
+  "Z_numerical": 8.0,
+  "Z_target": 8,
+  "converged": false,
+  "energies_mev": {
+    "E_coul_MeV": NaN,
+    "E_kin_MeV": NaN,
+    "E_skyrme_MeV": NaN,
+    "E_total_MeV": NaN,
+    "mixing": 0.3,
+    "notes": "Week 1 scaffold: energies not implemented.",
+    "skyrme_t0": -2488.91,
+    "skyrme_t3": 13777.0
+  },
+  "isoscalar_E2_sanity_integral": 143.0419166176762,
+  "n_iter": 50,
+  "notes": [
+    "Week 1: this is a scaffold with reasonable initial densities.",
+    "Week 2: implement Skyrme mean fields + radial Schr solver + self-consistent iteration."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "channel": "E2",
+  "hf": {
+    "max_iter": 50,
+    "mixing": 0.3,
+    "tol_density": 1e-06,
+    "tol_energy": 1e-06
+  },
+  "mesh": {
+    "n_points": 2000,
+    "r_max_fm": 20.0
+  },
+  "nucleus": {
+    "N": 8,
+    "Z": 8
+  },
+  "output_dir": "out/week1_o16_sly4star_e2",
+  "skyrme_name": "SLy4*"
+}
